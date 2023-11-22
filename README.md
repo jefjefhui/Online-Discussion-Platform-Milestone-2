@@ -64,7 +64,7 @@ The image below shows how partial match works. A row can be counted as qualified
 ![departmentcontact3](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/7a9056d2-1c0d-4d89-9584-ae8527d52193)
 
 
-8. Course recommendation: The course recommendation is a feature which recommends questions to your base on 2 criterias. The first criteria is personal preference. Personal preference is a section which users need to fill in. By filling in, the system can recommend questions to them based on what they check on the preference list. The second criteria is the likes on each question. The question with more likes with rank higher than the question with fewer likes. 
+8. Course recommendation: The course recommendation is a feature which recommends questions to you base on 2 criterias. The first criteria is personal preference. Personal preference is a section which users need to fill in. By filling in, the system can recommend questions to them based on what they check on the preference list. The second criteria is the likes on each question. The question with more likes will rank higher than the question with fewer likes. 
 The image below shows the preference list, users need to fill in the list to make the recommendation feature work. 
 ![recommendation1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/4f227153-383d-46cc-aabc-64c6410a7758)
 
