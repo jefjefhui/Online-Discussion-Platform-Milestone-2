@@ -39,7 +39,7 @@ The image below shows the filtering section, which allows users to select the fi
 
 ![filtering2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/00dac3f9-b0c8-4a7a-a21a-4aecc3b5e4f0)
 
-The image below shows the filtering outcome from the previou image. As you can see, the results match the categories we selected from the previous step.
+The image below shows the filtering outcome from the previous image. As you can see, the results match the categories we selected from the previous step.
 ![filtering3](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/101e2678-f37a-451b-b52d-26ff52bc5f23)
 
 
