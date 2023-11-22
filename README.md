@@ -36,6 +36,7 @@ The image below shows how the filtering interface looks like.
 ![filtering1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/0c027f4f-5b76-4af5-b851-8a9e178264f9)
 
 The image below shows the filtering section, which allows users to select the filtering criteria based on their personal preference. In the image, we selected “business”, “math” and “technology”. Afterwards, we can click “submit” for the result. 
+
 ![filtering2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/00dac3f9-b0c8-4a7a-a21a-4aecc3b5e4f0)
 
 The image below shows the filtering outcome from the previou image. As you can see, the results match the categories we selected from the previous step.
