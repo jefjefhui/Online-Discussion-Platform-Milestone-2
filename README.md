@@ -11,3 +11,11 @@ The following image shows what it looks like when the question is not liked.
 
 The following image shows what it looks like when the question is liked by the user. 
 ![like1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/f164c0b4-f60e-4f8c-b7d5-f48a8ecb53f2)
+
+2. Display user location: Display user location is a feature within the “Contact Us” feature. When users leave a comment in the “Contact Us” section, everything will be saved to the database. In addition to the comments and the images from the users, the application will retrieve the users location and log into the database. We want to log users' approximate location with users comments into our database, since location-based information may be useful for the team to analyze users preference for specific regions. This is a useful feature for marketing purposes.
+
+The image below shows the structure of the database table. The last column of the database table records the approximate location of the users when they leave a comment on the “Contact Us” section.
+![retrieved_location](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/cb846b60-7168-418e-b49f-dc425ec01bed)
+
+
+
