@@ -1,6 +1,6 @@
 # Online-Discussion-Platform-Milestone-2
 
-Online discussion platform milestone 2 is the continuation of the Online discussion platform milestone 1 that I completed previously. In milestone 2, I expanded the capabilities of the platform by adding more features, for instance, rating, display user location, third party api(direction),captcha, filtering,wishlist,item search,and  course recommendation.
+Online discussion platform milestone 2 is the continuation of the Online discussion platform milestone 1 that I completed previously. In milestone 2, I expanded the capabilities of the platform by adding more features, for instance, rating, display user location, third party api(direction),captcha, filtering,wishlist,item search,course recommendation,profile,remember me,and contact us.
 
 Technical skills I used to develop milestone 2: HTML,CSS,JavaScript,Bootstrap, CodeIgniter(PHP framework),SQL,MySQL,phpMyAdmin.
 
