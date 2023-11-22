@@ -48,10 +48,11 @@ The image below shows the favorite question page. This page will show all the pi
 ![favouriteQuestion1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/39bdc3e4-6e4a-44e0-827f-6a1333fb0fb7)
 The image below shows what it looks like when a question is being pinned.
 ![favouriteQuestion2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/798c9ebc-e5e6-4e3c-af48-8b6588901a07)
+
 The image below shows what it looks like when a question is not pinned. 
 ![favouriteQuestion3](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/1b920250-1531-46fe-bf38-9d2b605f19b9)
 
-7. Item search: The item search feature is a list of department contacts with the keyword searching capability. Platform users may not find the answers all the time, they may need to consult their professors for suggestions. Instead of searching the contact information outside the website, the platform has the full department contacts. Users can use the input area at the top to search the professor. The item search feature allows partial match, which means it doesn’t require a full match, a partial matching result can also display in the result section. 
+8. Item search: The item search feature is a list of department contacts with the keyword searching capability. Platform users may not find the answers all the time, they may need to consult their professors for suggestions. Instead of searching the contact information outside the website, the platform has the full department contacts. Users can use the input area at the top to search the professor. The item search feature allows partial match, which means it doesn’t require a full match, a partial matching result can also display in the result section. 
 
 The image below shows the full list of the department contacts. 
 ![departmentContact1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone-2/assets/73283123/27cae9b6-1849-47c1-867b-09339a43f739)
